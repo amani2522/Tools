@@ -1,0 +1,27 @@
+Bus Number:   194210
+Seat Number: 8
+Cost: 3200
+Name: Iman
+Bus Number:   194240
+Seat Number: 0
+Cost: 8400
+Name: Falak
+Bus Number:   194210
+Seat Number: 0
+Cost: 1600
+Name: Ena
+Bus Number:   194250
+Seat Number: 0
+Cost: 2800
+Name: Aman
+Bus Number:   194210
+Seat Number: 0
+Cost: 2000
+Name: aman
+Bus Number:   194210
+Seat Number: 0
+Cost: 800
+Name: asd
+Bus Number:   194210
+Seat Number: 0
+Cost: 800

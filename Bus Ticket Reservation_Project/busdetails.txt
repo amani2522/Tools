@@ -1,0 +1,7 @@
+Bus no   Bus Name      No of Seats              Destination                 Fare     Time 
+
+194210   Dahlia            50               Chittagong To Dhaka         Tk.400   6 A.M.
+194220   Green Line        50               Chittagong To Rajshahi      Tk.600   5 A.M.
+194230   Shohagh           50               Dhaka To Sylhet             Tk.400   1 P.M.
+194240   Shyamoli          50               Sylhet To Cox's Bazar       Tk.1200  5 A.M.
+194250   Soudia            50               Cox's Bazar To Chittagong   Tk.400   2 P.M.
