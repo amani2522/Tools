@@ -1,5 +1,0 @@
-Doctor ID         :4
-Doctor Name       :Dr. Shreeprakash Bishwas
-Specialization    :11
-Number of Patients:0
--------------------------------------------
